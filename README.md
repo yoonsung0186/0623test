@@ -11,3 +11,12 @@
 'name'
 
 ![대체 텍스트](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+```
+cd 123
+cd ..
+```
+```
+sudo apt update
+sudo apt upgrade
+```
